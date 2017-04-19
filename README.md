@@ -5,7 +5,7 @@ Bioscope is a bookmyshow.com clone, wherein one could book movie tickets, find n
 ##Components and Technology
 
 1. HTML/CSS, Javascript and Bootstrap for front end
-2. Node.js/Express.js for server side scripts
+2. Node.js/Express.js for server side script
 3. MongoDB for database
 
 ## Running Locally
